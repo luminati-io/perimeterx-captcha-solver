@@ -111,4 +111,4 @@ Retries are automatically attempted. If problems persist, contact our 24/7 suppo
 ---
 
 ## **Say Goodbye to PerimeterX CAPTCHAs**  
-Start your free trial today and experience seamless [PerimeterX CAPTCHA solving with Bright Data!](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterX) 
+Start your free trial today and experience seamless [PerimeterX CAPTCHA solving with Bright Data!](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterx) 
