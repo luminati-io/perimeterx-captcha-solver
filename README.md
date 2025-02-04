@@ -55,7 +55,7 @@ Bright Data’s CAPTCHA Solver supports a wide range of CAPTCHA types, including
 - [**DataDome**](https://brightdata.com/products/web-unlocker/captcha-solver/datadome)
 - [**reCAPTCHA**](https://brightdata.com/products/web-unlocker/captcha-solver/recaptcha)
 - [**Click Captcha**](https://brightdata.com/products/web-unlocker/captcha-solver/click-captcha)
-- [**PerimeterX**](https://brightdata.com/products/web-unlocker/captcha-solver/PerimeterX)
+- [**Cloudflare**](https://brightdata.com/products/web-unlocker/captcha-solver/Cloudflare)
 - [**PerimeterX**](https://brightdata.com/products/web-unlocker/captcha-solver/perimeterx)
 - [**SimpleCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/simplecaptcha)
 - [**FunCaptcha**](https://brightdata.com/products/web-unlocker/captcha-solver/funcaptcha)
